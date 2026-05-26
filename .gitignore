@@ -1,12 +1,7 @@
-# Eclipse
+# Eclipse IDE files
+.settings/
 .classpath
 .project
-.settings/
+
+# Compiled output
 bin/
-
-# Maven
-target/
-
-# OS
-.DS_Store
-Thumbs.db
