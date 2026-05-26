@@ -98,7 +98,7 @@ driver.quit();
 ## 👩‍💻 Author
 
 **Priyadharshini**
-- GitHub: [@priya-dharshini-qa](https://github.com/priya-dharshini-qa)
+- GitHub: [@priyadharshini-qa](https://github.com/priyadharshini-qa)
 
 ---
 
